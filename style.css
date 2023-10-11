@@ -125,6 +125,9 @@ header {
 .menu > li > a {
   color: #fff;
 }
+.menu > li > a:hover {
+  font-weight: bold;
+}
 .lush_logo {
   width: 81px;
   height: 21px;
